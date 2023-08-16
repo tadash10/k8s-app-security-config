@@ -1,0 +1,11 @@
+# Python-specific
+__pycache__/
+venv/
+
+# Generated files
+web-app-*.yaml
+
+# IDE-specific
+.vscode/
+.idea/
+*.pyc
